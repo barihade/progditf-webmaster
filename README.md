@@ -1,2 +1,2 @@
-#Ini adalah file master progditf
+# Ini adalah file master progditf
 Silahkan dikembangkan saat dibutuhkan.
